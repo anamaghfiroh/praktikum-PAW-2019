@@ -1,0 +1,27 @@
+body{
+	background-color: #1e90ff;
+	font-family: VErdana, geneva, Arial, Helvetica, sans-serif;
+}
+.eror{
+	text-align: right;
+}
+.posisi{
+	width: 350px;
+	text-align: right;
+}
+.lebar{
+	width: 300px;
+}
+.merah{
+	color: red;
+}
+
+fieldset .colbir{
+	background-color: blue;
+}
+fieldset{
+	background-color: blue;
+}
+legend{
+	font-weight: bold;
+}
