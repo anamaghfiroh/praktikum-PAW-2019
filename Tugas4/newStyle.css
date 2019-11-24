@@ -1,0 +1,314 @@
+.body1 {
+	background-color : #6495ED ;
+}
+.box1{
+	position : absolute ;
+	z-index : 1 ;
+	background-color : #B0E0E6;
+	width : 500px ;
+	height : 350px ;
+	margin : 100px 500px ;
+}
+.box2{
+	position : absolute ;
+	z-index : 2 ;
+	background-color : #6495ED;
+	width : 480px ;
+	height : 50px ;
+	margin : 110px 510px ;
+	font-family : makhina;
+	font-size : 40px ;
+	color : white ;
+	text-align : center ;
+}
+.box3{
+	position : absolute ;
+	z-index : 1 ;
+	background-color : #B0E0E6;
+	width : 500px ;
+	height : 180px ;
+	margin : 100px 500px ;
+}
+
+.table1{
+	position : absolute ;
+	z-index : 2 ;
+	width : 480px ;
+	height : 50px ;
+	margin : 200px 510px ;
+	font-family : makhina;
+	color : white ;
+	text-align : center ;
+}
+.input1 {
+	width : 400px ;
+	height : 50px ;
+	text-align : center ;
+	font-family : arial ;
+}
+
+.buttonSubmit {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	width : 480px ;
+	height : 50px ;
+	margin-top : 60px ;
+	font-family : makhina;
+	font-size : 20px ;
+}
+.buttonLogout {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	width : 480px ;
+	height : 50px ;
+	margin-top : 20px ;
+	font-family : makhina;
+	font-size : 20px ;
+}
+.buttonLogout a {
+	color : white ;
+}
+.buttonLogout2 {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 7px 40px 7px 40px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin-top: 200px ;
+	
+}
+.buttonLogout3 {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	width : 240px ;
+	height : 50px ;
+	margin-top : 20px ;
+	font-family : makhina;
+	font-size : 20px ;
+}
+.buttonLogout3 a {
+	color : white ;
+}
+.buttonUtama {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 85px 12px 85px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin-top : 50px ;
+	
+}
+
+.leftbox {
+	background-color : #B0E0E6;
+	width : 300px ;
+	height : 310px ;
+	position : absolute ;
+	z-index : 1;
+	margin-left : 20px ;
+}
+.rightbox{
+	background-color : #B0E0E6 ;
+	width : 1140px ;
+	height : 650px ;
+	position : absolute ;
+	z-index : 1;
+	margin-left : 330px ;
+}
+.home1{
+	background-color : #6495ED ;
+	width : 1120px ;
+	height : 30px ;
+	text-align : center ;
+	color : white ;
+	margin : 10px 10px ;
+	text-indent : center ;
+	padding-top : 15px ;
+	font-family : makhina ;
+	font-size : 20px ;
+}
+.img1 {
+	width : 300px ;
+	height : 220px ;
+	transform : rotate(90deg);
+	margin : 50px 0px ;
+	border : 3px solid #6495ED ;
+}
+.tableHome {
+	border : 3px solid #6495ED ;
+	width : 600px ;
+	height : 305px ;
+	position : absolute ;
+	z-index : 4 ;
+	margin : 75px 600px ;
+	font-family: arial ;
+}
+.tableHome th {
+	background-color : #6495ED;
+	color : white;
+}
+.tablePrivate1 {
+	border : 3px solid #6495ED ;
+	width : 600px ;
+	height : 305px ;
+	position : absolute ;
+	z-index : 4 ;
+	margin : 75px 350px ;
+	font-family: arial ;
+}
+.tablePrivate1 th {
+	background-color : #6495ED;
+	color : white;
+}
+.tablePrivate2 {
+	font-family: arial ;
+	width : 600px ;
+	height : 400px ;
+	position : absolute ;
+	z-index : 4 ;
+	margin : 75px 350px ;
+}
+.tablePrivate2 th {
+	background-color : #6495ED;
+	color : white;
+}
+.tablePrivate2 select{
+	background-color: #6495ED ;
+	color : white;
+}
+.mainbox {
+	background-color : #B0E0E6;
+	width : 300px ;
+	height : 330px ;
+	position : absolute ;
+	z-index : 1;
+	margin-left : 20px ;
+	margin-top : 320px ;
+}
+.box4{
+	position : absolute ;
+	z-index : 2 ;
+	background-color : #6495ED;
+	width : 260px ;
+	height : 35px ;
+	margin : 20px 40px ;
+	font-family : makhina;
+	font-size : 20px ;
+	color : white ;
+	text-align : center ;
+	padding-top: 10px ;
+	
+}
+.table2{
+	position : absolute ;
+	z-index : 2 ;
+	width : 260px ;
+	height : 50px ;
+	margin : 100px 35px ;
+	font-family : makhina;
+	color : white ;
+	text-align : center ;
+	
+}
+.input2 {
+	width : 260px ;
+	height : 30px ;
+	text-align : center ;
+	font-family : arial ;
+}
+.buttonSubmit2 {
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	width : 260px ;
+	height : 35px ;
+	margin-top : 60px ;
+	font-family : makhina;
+	font-size : 15px ;
+}
+
+.buttonLogin {
+	position : absolute ;
+	z-index : 3 ;
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 85px 12px 85px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin : 380px 40px ;
+	
+}
+.buttonHome {
+	position : absolute ;
+	z-index : 3 ;
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 105px 12px 105px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin : 380px 40px ;
+	
+}
+.buttonLogin2 {
+	position : absolute ;
+	z-index : 3 ;
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 80px 12px 80px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin : 380px 40px ;
+	
+}
+.buttonDetail1 {
+	position : absolute ;
+	z-index : 3 ;
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 95px 12px 95px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin : 440px 40px ;
+}
+.buttonDetail2 {
+	position : absolute ;
+	z-index : 3 ;
+	background-color : #6495ED;
+	color : white ;
+	text-align : center ;
+	padding : 12px 93px 12px 93px;
+	border-radius: 2px ;
+	font-family : makhina;
+	font-size : 20px ;
+	text-decoration: none ;
+	border : 2px solid white ;
+	margin : 500px 40px ;
+	
+}
