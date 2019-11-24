@@ -1,0 +1,36 @@
+body{
+	font-family : Verdana ;
+}
+
+.table1{
+	background-color:#DCDCDC ;
+	margin : center ;
+	padding : 10px ;
+	position : fixed ;
+	left : 5% ;
+	top : 10% ;
+}
+
+.table2{
+	border : 2px ;
+	background-color:#DCDCDC ;
+	padding : 10px ;
+	border: 2px solid #999;
+	text-align : center ;
+	position : fixed ;
+	left : 10% ;
+	top : 10% ;
+}
+
+td{
+	width : 120px ;
+	height : 20px ;
+	border: 2px solid #999;
+	
+}
+th{
+	width : 120px ;
+	height : 20px ;
+	border: 2px solid #999;
+	
+}
